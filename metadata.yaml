@@ -1,5 +1,8 @@
 _repo: The-lure-of-Piper-s-Glen_69136
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69136-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Roberts, Theodore Goodridge
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7525
     wikipedia: https://en.wikipedia.org/wiki/Theodore_Goodridge_Roberts
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69136#The-lure-of-Piper-s-Glen
 gutenberg_issued: '2022-10-11'
 identifiers:
   gutenberg: '69136'
